@@ -3,7 +3,7 @@
 # 东八时区, git, python3.9.0, gcc, g++, pip升级到最新, 支持中文, vi也支持中文
 #
 
-FROM yanght/centos7:7.9
+FROM yanght/centos:7.9
 
 ENV PYTHON_VERSION "3.7.9"
 ENV LC_ALL en_US.UTF-8
