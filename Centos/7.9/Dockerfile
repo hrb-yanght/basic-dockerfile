@@ -19,3 +19,4 @@ RUN yum install -y epel-release wget git \
     && rm -rf ~/anaconda-ks.cfg
 
 CMD ["/bin/bash"]
+
